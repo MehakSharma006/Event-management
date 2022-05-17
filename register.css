@@ -1,0 +1,46 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+h1{text-align:center;
+font-weight:bold;
+margin-top:50px;}
+h2{text-align:center;
+width:100%;
+padding:20px;}
+body{
+	background-image:url(rest.jfif);
+	background-size:cover;
+background-attachment:fixed;color:#fff;}
+#content1{
+	width:90%;
+	margin:auto;
+}
+form{
+	background-color:rgba(0,0,0,0.7);
+padding:30px;
+display:block;
+align-items:center;
+width:50%;
+border:2px solid black;
+margin:auto;margin-top:10px;}
+form .box{
+	width:95%;position:relative;bottom:10px;
+	height:1.3cm;border:0px;
+border-width:3px;}
+#option1 select{
+	width:95%;position:relative;bottom:10px;
+	height:1.5cm;border:0px;
+border-width:2px;}
+p{font:bold 30px tahoma;}
+#option2 select{
+	width:95%;position:relative;top:10px;
+	height:1.5cm;border:0px;
+border-width:2px;}
+p{font:bold 30px tahoma;}
+#last{
+	width:95%;
+height:2cm;}
+button{
+	width:50%;height:2cm;position:relative;
+background:green;}
